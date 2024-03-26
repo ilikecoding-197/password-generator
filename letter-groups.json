@@ -1,0 +1,6 @@
+{
+    "lowercase": "qwertyuiopasdfghjklzxcvbnm",
+    "uppercase": "QWERTYUIOPASDFGHJKLZXCVBNM",
+    "numbers": "1234567890",
+    "symbols": "!@#$(){}[];:+=-_"
+}
