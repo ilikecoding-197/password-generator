@@ -8,3 +8,6 @@ I made this because i just wanted to learn Git and how to use it. I am also doin
 
 ## How to use
 Simply, either use the libary, or the main program.
+
+# Contributing
+Read [this](./CONTRIB.MD)

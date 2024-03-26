@@ -1,0 +1,3 @@
+# How to contribute
+write the code you want to contribute, and then make a pull request. [How do I do that?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+after I check over it, and if it works, i will merge it. If it does not, I'll try to fix it. If i cant, i will say that it dosent work and that i couldnt fix it.
